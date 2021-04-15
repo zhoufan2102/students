@@ -1,7 +1,4 @@
-123456
-#123456
-#123
-987654321
+你好啊
 # 项目入口
 
 from view import View
@@ -15,7 +12,7 @@ def main():
     # 登录
     ret = View.login()
     if not ret:
-        print('=> 失败!')
+        print('=>登录失败!')
         return
 
     # 实现功能
