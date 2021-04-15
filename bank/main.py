@@ -1,4 +1,5 @@
-你好啊
+#你好啊
+#你在干嘛
 # 项目入口
 
 from view import View
